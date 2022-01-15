@@ -1,0 +1,20 @@
+font-family: 'Hammersmith One', sans-serif;
+
+font-family: 'Roboto', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #413d4b;
+    line-height: 24px;
+
+
+    
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #413d4b;
+    line-height: 24px;
+
+
+    background: linear-gradient(to right, #09052f , #311d5e);;
